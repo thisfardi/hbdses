@@ -1,4 +1,4 @@
-# syfa
-Selamat ulang tahun Syfa
+# ses
+Selamat ulang tahun ses
 
-https://fdciabdul.github.io/syfa/
+https://thisfardi.github.io/ses
